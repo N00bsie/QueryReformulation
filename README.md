@@ -1,7 +1,7 @@
 # QueryReformulation
 
 
-A simple workflow for the query reformulation problem can be found at [Workflow][Workflow.ipynb]
+A simple workflow for the query reformulation problem can be found at [Workflow](Workflow.ipynb)
 
 Properties that are not used :
 
