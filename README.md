@@ -1,4 +1,4 @@
-A simple workflow for the query reformulation problem can be found at [Workflow][Workflow.ipynb]
+A simple workflow for the query reformulation problem can be found at [Workflow][https://github.com/N00bsie/QueryReformulation/blob/master/Workflow.ipynb]
 
  Properties that are not used :
  
