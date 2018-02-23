@@ -1,8 +1,5 @@
-Merge branch 'master' of https://github.com/N00bsie/QueryReformulation
+A simple workflow for the query reformulation problem can be found at [Workflow][Workflow.ipynb]
 
-# Please enter a commit message to explain why this merge is necessary,
-# especially if it merges an updated upstream into a topic branch.
-#
-# Lines starting with '#' will be ignored, and an empty message aborts
-# the commit.
-# Updated git read me file
+ Properties that are not used :
+ 
+ (dbo:wikiPageWikiLink, dbo:wikiPageID, dbo:wikiPageExternalLink, dbo:wikiPageRevisionID,  dbo:wikiPageLength, owl:sameAs, dbo:viafId, dbo:wikiPageOutDegree, schema:comment, rdfs:comment, dbo:abstract, dbo:thumbnail, dcterms:subject, 
